@@ -1,0 +1,36 @@
+state,months_used,correlation
+Telangana,8,0.879
+Arunachal Pradesh,4,0.861
+West Bengal,9,0.774
+Odisha,5,0.729
+Himachal Pradesh,5,0.724
+Sikkim,4,0.675
+Tamil Nadu,9,0.594
+Jammu And Kashmir,7,0.552
+Bihar,8,0.482
+Maharashtra,9,0.411
+Mizoram,8,0.358
+Ladakh,4,0.315
+Dadra and Nagar Haveli and Daman and Diu,4,0.299
+Andhra Pradesh,7,0.236
+Karnataka,9,0.234
+Punjab,9,0.228
+Chhattisgarh,9,0.204
+Uttarakhand,9,0.202
+Uttar Pradesh,9,0.164
+Assam,9,0.123
+Andaman & Nicobar Islands,4,0.107
+Manipur,4,0.053
+Tripura,4,0.005
+Madhya Pradesh,9,-0.071
+Rajasthan,9,-0.093
+Goa,4,-0.096
+Puducherry,4,-0.116
+Gujarat,9,-0.124
+Jharkhand,6,-0.198
+Kerala,4,-0.262
+Haryana,9,-0.369
+Meghalaya,5,-0.393
+Delhi,9,-0.531
+Lakshadweep,4,-0.616
+Nagaland,4,-0.918
